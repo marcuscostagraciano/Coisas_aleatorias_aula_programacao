@@ -1,1 +1,2 @@
-# Coisas_aleatorias_aula_programacao
+# Reposotório de coisas aleatórias da aula de Programação
+# - [ ] Battata
