@@ -1,2 +1,1 @@
-# Reposotório de coisas aleatórias da aula de Programação
-# - [ ] Battata
+# Reposotório de coisas e códigos aleatórios da aula de Programação
