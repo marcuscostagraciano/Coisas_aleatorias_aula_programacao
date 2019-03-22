@@ -9,10 +9,10 @@ while ($numerodigitado!=$numeroaletorio)
     $numerodigitado= (int)fgets(STDIN);
 
     if ($numerodigitado>$numeroaletorio)
-    {print "\nNúmero maior do que o certo\n";}
+    {print "\nNúmero maior do que o correto\n";}
 
     if ($numerodigitado<$numeroaletorio)
-    {print "\nNúmero menor do que o certo\n";}
+    {print "\nNúmero menor do que o correto\n";}
     
     $tentativas++;}
 
